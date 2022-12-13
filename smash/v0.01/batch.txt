@@ -1,0 +1,5 @@
+/bin/ls
+/bin/pwd
+echo 123
+ls
+echo 456

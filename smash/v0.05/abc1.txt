@@ -1,0 +1,5 @@
+abc.txt
+batch.txt
+makefile
+smash
+smash.c

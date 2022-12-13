@@ -1,0 +1,12 @@
+/bin/ls
+/bin/pwd
+/bin/echo 5635
+echo 123
+ls
+echo 456
+pwd
+echo skdjfj fkjfjdk
+echo sfkj > fkks.txt
+echo    8763
+   echo 238998
+     echo    398e87   
